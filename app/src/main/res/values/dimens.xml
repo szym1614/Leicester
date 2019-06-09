@@ -1,0 +1,7 @@
+<resources>
+    <!-- Minimum height of each list item -->
+    <dimen name="list_item_minheight">80dp</dimen>
+    <!-- Height of the date text view -->
+    <dimen name="date_textview_height">88dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+</resources>

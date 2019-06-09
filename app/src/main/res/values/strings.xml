@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Leicester</string>
+
+    <!-- categories -->
+    <string name="history_cat">History</string>
+    <string name="restaurant_cat">Bars</string>
+    <string name="park_cat">Parks</string>
+    <string name="event_cat">Events</string>
+
+    <!-- Historic places -->
+    <string name="guild_title">The Guildhall</string>
+    <string name="guild_description">The Guildhall is a timber framed building with its earliest part dating from c. 1390.
+        It acted as a Town Hall until 1876.</string>
+
+    <string name="abbey_title">Leicester Abbey</string>
+    <string name="abbey_description">This place was founded in the 12th century
+        by the Robert de Beaumont, 2nd Earl of Leicester.</string>
+
+    <string name="cathedral_title">Leicester Cathedral</string>
+    <string name="cathedral_description">Leicester Cathedral, is a Church of England cathedral. The church was elevated to a
+        collegiate church in 1922 and made a cathedral in 1927.</string>
+
+    <string name="hall_title">Town Hall</string>
+    <string name="hall_description">The town hall was built on the former cattle market between 1874 and 1876 in the Queen Anne
+        Style by Francis Hames.</string>
+
+    <string name="corn_exchange_title">Corn Exchange</string>
+    <string name="corn_exchange_description">A corn exchange was a building where farmers and merchants traded cereal grains, common up
+        until the 19th century in towns and cities of Great Britain and Ireland.</string>
+
+    <string name="gateway_title">Magazine Gateway</string>
+    <string name="gateway_description">Now a solitary landmark alongside Leicester ringroad, it was originally the main gateway of a
+        walled enclosure built around 1400.</string>
+    <!--    -->
+
+    <!-- Bars -->
+    <string name="rileys_title">Rileys Sports Bar</string>
+    <string name="rileys_description">Chain bar showing big-screen sport, with snooker and pool tables, dartboards and
+        bingo machines.</string>
+    <string name="rileys_hours">Opening Hours:\nMon-Fri: 12PM-4AM\nSaturday: 11AM-4AM\nSunday: 12PM-4AM</string>
+
+    <string name="soar_title">Soar Point</string>
+    <string name="soar_description">The Soar Point or ‘The Point’, as it is known locally, is a fantastic pub in the heart
+        of DMU campus.</string>
+    <string name="soar_hours">Opening Hours:\nMon-Thu: 11AM-12AM\nFri-Sat: 10AM-1AM\nSunday: 10AM-12AM</string>
+
+    <string name="firebug_title">Firebug</string>
+    <string name="firebug_description">Cool, spacious real ale and cocktail hangout with small stage upstairs for
+        bands and comedy gigs.</string>
+    <string name="firebug_hours">Opening Hours:\nMonday: 12PM-2AM\nTue-Fri: 12PM-4AM\nSaturday:10AM-4AM\nSunday: 10AM-2AM</string>
+
+    <string name="brewdog_title">BrewDog</string>
+    <string name="brewdog_description">A bar specialising in the Scottish brewery\'s craft beers, with regular guest brews.</string>
+    <string name="brewdog_hours">Opening Hours:\nMon-Thu: 12PM-12AM\nFri-Sun: 12PM-1AM</string>
+    <!--    -->
+
+    <!-- Parks -->
+    <string name="bede_title">Bede Park</string>
+    <string name="bede_description">Bede Park, located nearby the River Soar, is play area in the heart of the city.</string>
+
+    <string name="victoria_title">Victoria Park</string>
+    <string name="victoria_description">Victoria Park is a public park of 69 acres. It is located in the
+        south-east, just outside the city centre.</string>
+
+    <string name="castle_title">Castle Park</string>
+    <string name="castle_description">Castle Park is located in the centre of Leicester and 10 minutes’ walk
+        from the railway station.</string>
+
+    <string name="nelson_title">Nelson Mandela Park</string>
+    <string name="nelson_description">The Nelson Mandela Park is situated just inside the city centre near Leicester
+        Prison and the Leicester Tigers Stadium.</string>
+    <!--    -->
+
+    <!-- Events -->
+    <!-- titles-->
+    <string name="forbidden_planet_event">Return to the Forbidden Planet</string>
+    <string name="black_honey_event">Black Honey</string>
+    <string name="mechanics_event">Mike + The Mechanics</string>
+    <string name="literature_event">Literature at Lunchtime</string>
+    <string name="rock_event">The Rock Society</string>
+    <string name="experience_event">Experience</string>
+    <string name="live_music_event">Live Music TBC</string>
+    <string name="chris_ramsey_event">Is That Chris Ramsey?</string>
+
+    <!-- where the given event will take place -->
+    <string name="demontfort_event">De Montfort Hall</string>
+    <string name="o2_event">O2 Academy</string>
+    <string name="firebug_event">Firebug</string>
+
+    <!-- dates of the events -->
+    <string name="march_26">MARCH 26</string>
+    <string name="march_29">MARCH 29</string>
+    <string name="march_30">MARCH 30</string>
+    <string name="march_31">MARCH 31</string>
+    <string name="april_2">APRIL 2</string>
+    <!--    -->
+
+</resources>
